@@ -1,4 +1,4 @@
-name : push-wrokflow
+name : push-wrokflow 10
 on : push
 
 jobs : 
